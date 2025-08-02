@@ -1,22 +1,27 @@
 # Math for AI Engineering
 
-This is a daily learning log documenting my journey to master the core math skills needed for AI engineering. My current background is early high school level, and this repo tracks my progress as I build toward understanding linear regression and beyond.
+This repo documents my daily progress in building the math skills necessary to understand and master AI concepts. I started this after realizing I lacked the foundational knowledge to grasp even early topics like linear regression in the IBM AI Engineering certification.
 
-## Why this project?
+## Goals
+- Build solid intuition in algebra, linear algebra, calculus, and statistics
+- Be able to understand machine learning models (regression, gradient descent, etc.)
+- Maintain daily GitHub activity and show consistent learning
 
-Linear regression in the IBM AI Engineering course was difficult due to missing math foundations. This repo exists to close those gaps.
+---
 
-## Core Areas to Cover
-- Algebra & Functions
-- Linear Algebra
-- Calculus (derivatives & gradients)
-- Probability & Statistics
+## ✅ 14-Day Math Plan
 
-I’ll be learning mainly via Khan Academy, YouTube (3Blue1Brown), and short problem sets.
+**Days 1–6**: Algebra 1 — equations, graphing, functions  
+**Days 7–9**: Linear Algebra — vectors, matrices, dot products  
+**Days 10–12**: Calculus — derivatives, gradients  
+**Days 13–14**: Statistics — mean, variance, distributions
 
-## Format
-Each day, I’ll create a markdown file with:
-- Topics studied
-- Notes
-- Reflections
-- Resources used
+---
+
+## 📆 Daily Log
+
+### 🗓️ Day 1 – First Exposure to Regression (2025-08-02)
+- Struggled with linear regression in IBM course
+- Took graded quizzes: scored 3/15 for high school level math
+- Realized I need to relearn basic algebra, functions, and statistics
+- Created this repo to document the journey
