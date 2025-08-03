@@ -36,3 +36,13 @@ This repo documents my daily progress in building the math skills necessary to u
   - Verified answers with logic and multiple formats (fraction, decimal, exact form)
 - Improved ability to break down multi-step expressions clearly
 - Practiced LaTeX-based formatting and problem explanation for readability
+
+## August 3, 2025 – Practice Log 02
+
+- Continued Algebra Basics on Khan Academy:
+  - Solved multi-step linear inequalities and equations
+  - Practiced fraction operations, simplifying rational expressions, and writing inequalities
+  - Worked with coordinate planes: quadrant identification and graphing points
+  - Reviewed word problems involving rates, distances, and constraints
+- Reached Level 11 and completed multiple quizzes with high accuracy
+- Improved understanding of 6th–10th grade math curriculum and problem-solving flow
