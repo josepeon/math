@@ -25,3 +25,14 @@ This repo documents my daily progress in building the math skills necessary to u
 - Took graded quizzes: scored 3/15 for high school level math
 - Realized I need to relearn basic algebra, functions, and statistics
 - Created this repo to document the journey
+
+## August 3, 2025 – Practice Log
+
+- Completed a series of math practice problems involving:
+  - Fraction simplification and operations (add, subtract, divide)
+  - Solving linear equations
+  - Simplifying complex rational expressions
+  - Geometry: triangle area, circle formulas, shaded percentage calculation
+  - Verified answers with logic and multiple formats (fraction, decimal, exact form)
+- Improved ability to break down multi-step expressions clearly
+- Practiced LaTeX-based formatting and problem explanation for readability
