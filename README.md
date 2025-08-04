@@ -46,3 +46,13 @@ This repo documents my daily progress in building the math skills necessary to u
   - Reviewed word problems involving rates, distances, and constraints
 - Reached Level 11 and completed multiple quizzes with high accuracy
 - Improved understanding of 6th–10th grade math curriculum and problem-solving flow
+
+## August 4, 2025 – Practice Log
+
+- Started the day with linear equations and coordinate geometry
+- Solved problems involving:
+  - Slope-intercept form and point-slope form
+  - Intercepts from standard form equations
+  - Writing equations of lines through two points
+  - Interpreting and solving inequalities from real-world word problems
+- Continued reinforcing concepts from 8th to 10th grade level math
