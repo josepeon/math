@@ -56,3 +56,11 @@ This repo documents my daily progress in building the math skills necessary to u
   - Writing equations of lines through two points
   - Interpreting and solving inequalities from real-world word problems
 - Continued reinforcing concepts from 8th to 10th grade level math
+
+### August 4, 2025 – Continued Progress
+
+- Reviewed and simplified complex rational expressions
+- Solved multi-step equations and inequalities with variables on both sides
+- Practiced converting and checking coordinate pairs as solutions to linear equations
+- Applied slope formulas and transformations between forms (standard ↔ slope-intercept)
+- Increased fluency with algebraic manipulation and proper formatting of answers
