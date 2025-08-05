@@ -64,3 +64,11 @@ This repo documents my daily progress in building the math skills necessary to u
 - Practiced converting and checking coordinate pairs as solutions to linear equations
 - Applied slope formulas and transformations between forms (standard ↔ slope-intercept)
 - Increased fluency with algebraic manipulation and proper formatting of answers
+
+## August 5, 2025 – Practice Log (Morning)
+
+- Reviewed and solved linear inequalities and rational equations
+- Worked with point-slope and slope-intercept forms for writing equations of lines
+- Practiced combining like terms and simplifying algebraic expressions
+- Strengthened understanding of middle and early high school math concepts
+- Committed consistent progress to GitHub for badge streak and contribution tracking
