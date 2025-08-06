@@ -72,3 +72,13 @@ This repo documents my daily progress in building the math skills necessary to u
 - Practiced combining like terms and simplifying algebraic expressions
 - Strengthened understanding of middle and early high school math concepts
 - Committed consistent progress to GitHub for badge streak and contribution tracking
+
+## August 6, 2025 – Practice Log
+
+- Continued Algebra and Geometry practice on Khan Academy:
+  - Identified coordinate plane quadrants and plotted points
+  - Solved and checked equations of lines through given points
+  - Found and interpreted slope, x- and y-intercepts
+  - Transformed linear equations into slope-intercept form
+- Committed regular progress and prepared for GitHub badge unlocks
+- Targeted Quickdraw achievement using GitHub Issues
