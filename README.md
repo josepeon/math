@@ -82,3 +82,11 @@ This repo documents my daily progress in building the math skills necessary to u
   - Transformed linear equations into slope-intercept form
 - Committed regular progress and prepared for GitHub badge unlocks
 - Targeted Quickdraw achievement using GitHub Issues
+
+## August 7, 2025 – Practice Log
+
+- Focused on reinforcing algebraic fundamentals:
+  - Simplified complex fractions and rational expressions
+  - Solved multi-step equations and linear inequalities
+  - Practiced identifying solutions to equations and graph-based problems
+- Continued consistent daily tracking and contribution logging
