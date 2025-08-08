@@ -90,3 +90,11 @@ This repo documents my daily progress in building the math skills necessary to u
   - Solved multi-step equations and linear inequalities
   - Practiced identifying solutions to equations and graph-based problems
 - Continued consistent daily tracking and contribution logging
+
+## August 8, 2025 – Practice Log
+
+- Reviewed foundational algebra topics to reinforce speed and accuracy
+- Solved problems involving proportions, coordinate transformations, and function tables
+- Practiced interpreting and writing inequalities from real-world situations
+- Explored connections between arithmetic patterns and linear relationships
+- Maintained GitHub contribution streak and continued documentation of progress
