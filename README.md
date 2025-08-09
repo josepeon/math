@@ -98,3 +98,11 @@ This repo documents my daily progress in building the math skills necessary to u
 - Practiced interpreting and writing inequalities from real-world situations
 - Explored connections between arithmetic patterns and linear relationships
 - Maintained GitHub contribution streak and continued documentation of progress
+
+## August 8, 2025 – Practice Log
+
+- Continued work on algebra and geometry problem sets
+- Practiced converting between slope-intercept, point-slope, and standard forms of a line
+- Solved contextual problems involving distance, rate, and time
+- Reviewed percentage calculations and applied them in word problems
+- Kept up with GitHub streak logging and documentation
