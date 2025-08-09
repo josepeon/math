@@ -106,3 +106,11 @@ This repo documents my daily progress in building the math skills necessary to u
 - Solved contextual problems involving distance, rate, and time
 - Reviewed percentage calculations and applied them in word problems
 - Kept up with GitHub streak logging and documentation
+
+## August 9, 2025 – Practice Log
+
+- Began the day with algebra review, focusing on solving and graphing linear equations
+- Practiced determining slope and intercepts from equations and graphs
+- Worked through word problems involving proportional relationships
+- Reviewed fraction and decimal conversions to improve calculation speed
+- Continued maintaining GitHub contribution streak and documenting daily progress
