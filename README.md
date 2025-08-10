@@ -114,3 +114,11 @@ This repo documents my daily progress in building the math skills necessary to u
 - Worked through word problems involving proportional relationships
 - Reviewed fraction and decimal conversions to improve calculation speed
 - Continued maintaining GitHub contribution streak and documenting daily progress
+
+## August 10, 2025 – Practice Log
+
+- Focused on solving multi-step equations and inequalities with variables on both sides
+- Practiced translating word problems into algebraic equations
+- Reviewed slope-intercept and standard form conversions
+- Worked through problems involving percentages and proportional reasoning
+- Continued daily GitHub activity for contribution streak
