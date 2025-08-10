@@ -122,3 +122,11 @@ This repo documents my daily progress in building the math skills necessary to u
 - Reviewed slope-intercept and standard form conversions
 - Worked through problems involving percentages and proportional reasoning
 - Continued daily GitHub activity for contribution streak
+
+### August 10, 2025 – Continued Progress
+
+- Reviewed and practiced simplifying complex rational expressions
+- Solved contextual problems involving distance, rate, and time
+- Worked on identifying solutions from coordinate graphs
+- Applied percentage change formulas in real-world examples
+- Maintained daily documentation and GitHub streak
