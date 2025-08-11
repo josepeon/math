@@ -146,3 +146,11 @@ This repo documents my daily progress in building the math skills necessary to u
 - Reviewed and graphed inequalities on the coordinate plane
 - Worked through percentage and proportion applications in real-world contexts
 - Continued GitHub streak tracking and daily math documentation
+
+### August 11, 2025 – Continued Progress
+
+- Reviewed solving systems of equations by substitution and elimination
+- Practiced converting between fractional, decimal, and percentage forms
+- Worked on interpreting slope and intercept meaning in real-world problems
+- Solved mixed geometry problems involving perimeter, area, and angle measures
+- Maintained consistent GitHub contributions and organized daily progress logs
