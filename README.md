@@ -138,3 +138,11 @@ This repo documents my daily progress in building the math skills necessary to u
 - Completed timed sets on linear equations, slope, and intercept identification
 - Reviewed key strategies for approaching word problems efficiently
 - Updated GitHub repository to maintain documentation consistency
+
+## August 11, 2025 – Practice Log
+
+- Started the day with algebra drills focusing on simplifying expressions and solving equations
+- Practiced writing equations of lines from points and slopes
+- Reviewed and graphed inequalities on the coordinate plane
+- Worked through percentage and proportion applications in real-world contexts
+- Continued GitHub streak tracking and daily math documentation
