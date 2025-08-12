@@ -71,7 +71,6 @@ This repo documents my daily progress in building the math skills necessary to u
 - Worked with point-slope and slope-intercept forms for writing equations of lines
 - Practiced combining like terms and simplifying algebraic expressions
 - Strengthened understanding of middle and early high school math concepts
-- Committed consistent progress to GitHub for badge streak and contribution tracking
 
 ## August 6, 2025 – Practice Log
 
@@ -80,8 +79,6 @@ This repo documents my daily progress in building the math skills necessary to u
   - Solved and checked equations of lines through given points
   - Found and interpreted slope, x- and y-intercepts
   - Transformed linear equations into slope-intercept form
-- Committed regular progress and prepared for GitHub badge unlocks
-- Targeted Quickdraw achievement using GitHub Issues
 
 ## August 7, 2025 – Practice Log
 
@@ -89,7 +86,6 @@ This repo documents my daily progress in building the math skills necessary to u
   - Simplified complex fractions and rational expressions
   - Solved multi-step equations and linear inequalities
   - Practiced identifying solutions to equations and graph-based problems
-- Continued consistent daily tracking and contribution logging
 
 ## August 8, 2025 – Practice Log
 
@@ -97,7 +93,6 @@ This repo documents my daily progress in building the math skills necessary to u
 - Solved problems involving proportions, coordinate transformations, and function tables
 - Practiced interpreting and writing inequalities from real-world situations
 - Explored connections between arithmetic patterns and linear relationships
-- Maintained GitHub contribution streak and continued documentation of progress
 
 ## August 8, 2025 – Practice Log
 
@@ -105,7 +100,6 @@ This repo documents my daily progress in building the math skills necessary to u
 - Practiced converting between slope-intercept, point-slope, and standard forms of a line
 - Solved contextual problems involving distance, rate, and time
 - Reviewed percentage calculations and applied them in word problems
-- Kept up with GitHub streak logging and documentation
 
 ## August 9, 2025 – Practice Log
 
@@ -113,7 +107,6 @@ This repo documents my daily progress in building the math skills necessary to u
 - Practiced determining slope and intercepts from equations and graphs
 - Worked through word problems involving proportional relationships
 - Reviewed fraction and decimal conversions to improve calculation speed
-- Continued maintaining GitHub contribution streak and documenting daily progress
 
 ## August 10, 2025 – Practice Log
 
@@ -121,7 +114,6 @@ This repo documents my daily progress in building the math skills necessary to u
 - Practiced translating word problems into algebraic equations
 - Reviewed slope-intercept and standard form conversions
 - Worked through problems involving percentages and proportional reasoning
-- Continued daily GitHub activity for contribution streak
 
 ### August 10, 2025 – Continued Progress
 
@@ -129,7 +121,6 @@ This repo documents my daily progress in building the math skills necessary to u
 - Solved contextual problems involving distance, rate, and time
 - Worked on identifying solutions from coordinate graphs
 - Applied percentage change formulas in real-world examples
-- Maintained daily documentation and GitHub streak
 
 ### August 10, 2025 – Evening Progress
 
@@ -137,7 +128,6 @@ This repo documents my daily progress in building the math skills necessary to u
 - Focused on improving accuracy and reducing calculation errors
 - Completed timed sets on linear equations, slope, and intercept identification
 - Reviewed key strategies for approaching word problems efficiently
-- Updated GitHub repository to maintain documentation consistency
 
 ## August 11, 2025 – Practice Log
 
@@ -145,7 +135,6 @@ This repo documents my daily progress in building the math skills necessary to u
 - Practiced writing equations of lines from points and slopes
 - Reviewed and graphed inequalities on the coordinate plane
 - Worked through percentage and proportion applications in real-world contexts
-- Continued GitHub streak tracking and daily math documentation
 
 ### August 11, 2025 – Continued Progress
 
@@ -153,4 +142,10 @@ This repo documents my daily progress in building the math skills necessary to u
 - Practiced converting between fractional, decimal, and percentage forms
 - Worked on interpreting slope and intercept meaning in real-world problems
 - Solved mixed geometry problems involving perimeter, area, and angle measures
-- Maintained consistent GitHub contributions and organized daily progress logs
+
+## August 12, 2025 – Practice Log
+
+- Focused on algebra fundamentals with multi-step equations and inequalities
+- Practiced identifying and interpreting slope and intercepts from graphs and tables
+- Worked on translating real-world scenarios into algebraic expressions
+- Reviewed percent increase/decrease problems for accuracy and speed
