@@ -149,3 +149,11 @@ This repo documents my daily progress in building the math skills necessary to u
 - Practiced identifying and interpreting slope and intercepts from graphs and tables
 - Worked on translating real-world scenarios into algebraic expressions
 - Reviewed percent increase/decrease problems for accuracy and speed
+
+### August 12, 2025 – Continued Progress
+
+- Reviewed systems of equations using substitution and elimination
+- Practiced applying linear equations to model real-world problems
+- Worked on interpreting graphs for slope, intercepts, and solution sets
+- Solved problems involving proportional reasoning and percentage change
+- Updated GitHub repository to maintain streak and organized daily records
