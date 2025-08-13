@@ -157,3 +157,10 @@ This repo documents my daily progress in building the math skills necessary to u
 - Worked on interpreting graphs for slope, intercepts, and solution sets
 - Solved problems involving proportional reasoning and percentage change
 - Updated GitHub repository to maintain streak and organized daily records
+
+## August 13, 2025 – Practice Log
+
+- Started with algebra drills on simplifying expressions and solving equations with fractions
+- Practiced graphing linear equations and interpreting slope and intercept values
+- Solved real-world problems involving proportionality and unit rates
+- Reviewed systems of equations and applied them to word problems
