@@ -164,3 +164,10 @@ This repo documents my daily progress in building the math skills necessary to u
 - Practiced graphing linear equations and interpreting slope and intercept values
 - Solved real-world problems involving proportionality and unit rates
 - Reviewed systems of equations and applied them to word problems
+
+## August 14, 2025 – Practice Log
+
+- Focused on mixed practice sets covering algebra, geometry, and basic statistics
+- Reviewed solving and graphing linear inequalities
+- Practiced interpreting word problems into equations and inequalities
+- Worked on percentage problems and ratio applications
