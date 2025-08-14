@@ -171,3 +171,10 @@ This repo documents my daily progress in building the math skills necessary to u
 - Reviewed solving and graphing linear inequalities
 - Practiced interpreting word problems into equations and inequalities
 - Worked on percentage problems and ratio applications
+
+### August 14, 2025 – Continued Progress
+
+- Practiced solving systems of equations using both substitution and elimination
+- Worked on graphing systems and identifying intersection points
+- Reviewed inequalities and how to represent solution sets visually
+- Completed applied problems involving ratios, proportions, and percentage change
