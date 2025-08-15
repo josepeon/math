@@ -178,3 +178,10 @@ This repo documents my daily progress in building the math skills necessary to u
 - Worked on graphing systems and identifying intersection points
 - Reviewed inequalities and how to represent solution sets visually
 - Completed applied problems involving ratios, proportions, and percentage change
+
+## August 15, 2025 – Practice Log
+
+- Reviewed algebraic manipulation techniques for simplifying expressions
+- Solved multiple systems of equations using substitution and elimination
+- Practiced interpreting word problems into linear equations
+- Worked on ratio, proportion, and percentage-based applications
