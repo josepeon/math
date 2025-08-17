@@ -199,3 +199,10 @@ This repo documents my daily progress in building the math skills necessary to u
 - Practiced inequalities and represented solutions graphically
 - Reviewed algebra drills involving fractional equations and simplification
 - Worked on percent increase/decrease and proportional reasoning in applied contexts
+
+## August 17, 2025 – Practice Log
+
+- Started the day with algebra practice focused on equations and inequalities
+- Reviewed systems of equations and solved word problems applying substitution and elimination
+- Practiced graphing linear functions and identifying slope and intercepts
+- Worked through ratio, proportion, and percent word problems
