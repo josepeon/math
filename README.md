@@ -206,3 +206,10 @@ This repo documents my daily progress in building the math skills necessary to u
 - Reviewed systems of equations and solved word problems applying substitution and elimination
 - Practiced graphing linear functions and identifying slope and intercepts
 - Worked through ratio, proportion, and percent word problems
+
+### August 17, 2025 – Continued Progress
+
+- Practiced solving multi-step equations with fractions and decimals
+- Reviewed graphing inequalities and identifying feasible solution regions
+- Worked on systems of equations applied to mixture and cost problems
+- Applied ratios, proportions, and percents in problem-solving sets
