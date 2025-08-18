@@ -220,3 +220,10 @@ This repo documents my daily progress in building the math skills necessary to u
 - Focused on timed drills to improve accuracy and speed under pressure
 - Reviewed slope-intercept form and practiced converting from standard form
 - Solved applied word problems involving percentages, ratios, and proportional reasoning
+
+## August 18, 2025 – Practice Log
+
+- Began the day with algebra practice on multi-step equations and inequalities
+- Reviewed systems of equations and applied them to contextual word problems
+- Practiced graphing lines and inequalities to visualize solution sets
+- Worked on percent, ratio, and proportion applications for accuracy
