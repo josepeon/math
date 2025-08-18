@@ -213,3 +213,10 @@ This repo documents my daily progress in building the math skills necessary to u
 - Reviewed graphing inequalities and identifying feasible solution regions
 - Worked on systems of equations applied to mixture and cost problems
 - Applied ratios, proportions, and percents in problem-solving sets
+
+### August 17, 2025 – Evening Progress
+
+- Closed the day with mixed practice on algebra and geometry
+- Focused on timed drills to improve accuracy and speed under pressure
+- Reviewed slope-intercept form and practiced converting from standard form
+- Solved applied word problems involving percentages, ratios, and proportional reasoning
