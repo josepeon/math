@@ -227,3 +227,11 @@ This repo documents my daily progress in building the math skills necessary to u
 - Reviewed systems of equations and applied them to contextual word problems
 - Practiced graphing lines and inequalities to visualize solution sets
 - Worked on percent, ratio, and proportion applications for accuracy
+
+### August 18, 2025 – Continued Progress
+
+- Solved additional systems of equations using both substitution and elimination methods
+- Practiced fractional and decimal equations to improve precision
+- Reviewed graphing inequalities and interpreting solution regions
+- Applied percent change and proportional reasoning to real-world word problems
+
