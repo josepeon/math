@@ -249,3 +249,10 @@ This repo documents my daily progress in building the math skills necessary to u
 - Practiced algebra drills involving fractional and decimal equations
 - Worked through word problems applying ratios, proportions, and percent changes
 - Maintained daily GitHub streak and updated documentation
+
+## August 21, 2025 – Practice Log
+
+- Practiced solving systems of equations through substitution, elimination, and graphing
+- Reviewed algebra drills on fractions, decimals, and multi-step equations
+- Worked on inequalities and interpreted solution sets on coordinate graphs
+- Applied ratios, proportions, and percentages to real-world word problems
