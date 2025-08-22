@@ -256,3 +256,10 @@ This repo documents my daily progress in building the math skills necessary to u
 - Reviewed algebra drills on fractions, decimals, and multi-step equations
 - Worked on inequalities and interpreted solution sets on coordinate graphs
 - Applied ratios, proportions, and percentages to real-world word problems
+
+## August 22, 2025 – Practice Log
+
+- Focused on solving and graphing systems of linear equations
+- Practiced simplifying algebraic expressions with fractions and decimals
+- Reviewed inequalities and graphed their solution sets
+- Worked on ratio, proportion, and percent applications in word problems
