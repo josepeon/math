@@ -3,6 +3,7 @@
 This repo documents my daily progress in building the math skills necessary to understand and master AI concepts. I started this after realizing I lacked the foundational knowledge to grasp even early topics like linear regression in the IBM AI Engineering certification.
 
 ## Goals
+
 - Build solid intuition in algebra, linear algebra, calculus, and statistics
 - Be able to understand machine learning models (regression, gradient descent, etc.)
 - Maintain daily GitHub activity and show consistent learning
@@ -21,6 +22,7 @@ This repo documents my daily progress in building the math skills necessary to u
 ## 📆 Daily Log
 
 ### 🗓️ Day 1 – First Exposure to Regression (2025-08-02)
+
 - Struggled with linear regression in IBM course
 - Took graded quizzes: scored 3/15 for high school level math
 - Realized I need to relearn basic algebra, functions, and statistics
@@ -94,7 +96,7 @@ This repo documents my daily progress in building the math skills necessary to u
 - Practiced interpreting and writing inequalities from real-world situations
 - Explored connections between arithmetic patterns and linear relationships
 
-## August 8, 2025 – Practice Log
+## August 8, 2025 – Practice Log (Afternoon)
 
 - Continued work on algebra and geometry problem sets
 - Practiced converting between slope-intercept, point-slope, and standard forms of a line
