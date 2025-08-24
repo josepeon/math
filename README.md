@@ -272,3 +272,10 @@ This repo documents my daily progress in building the math skills necessary to u
 - Practiced solving and checking systems of linear equations
 - Worked on graphing linear functions and interpreting slope/intercept
 - Applied ratios, proportions, and percent calculations in problem-solving
+
+## August 24, 2025 – Practice Log
+
+- Reviewed algebraic manipulation with emphasis on fractions and decimals
+- Solved systems of equations through substitution, elimination, and graphing
+- Practiced graphing linear inequalities and interpreting feasible regions
+- Worked on ratio, proportion, and percentage-based word problems
