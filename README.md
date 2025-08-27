@@ -286,3 +286,11 @@ This repo documents my daily progress in building the math skills necessary to u
 - Practiced graphing linear equations and interpreting slope/intercept values
 - Reviewed systems of equations applied to contextual word problems
 - Worked through ratio, proportion, and percent applications in problem-solving
+
+## August 27, 2025 – Practice Log
+
+- Attended first Multidisciplinary Calculus class
+- Reviewed the concept of **areas** and how they connect to integral thinking
+- Explored the mathematical constant **π (pi)** and its role in geometry and calculus
+- Learned about the **Babylonian Algorithm** as an early method for approximating square roots
+- Reflected on how historical approaches influence modern calculus techniques
