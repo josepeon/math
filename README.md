@@ -294,3 +294,11 @@ This repo documents my daily progress in building the math skills necessary to u
 - Explored the mathematical constant **π (pi)** and its role in geometry and calculus
 - Learned about the **Babylonian Algorithm** as an early method for approximating square roots
 - Reflected on how historical approaches influence modern calculus techniques
+
+## August 28, 2025 – Practice Log
+
+- Continued with Multidisciplinary Calculus coursework
+- Explored more applications of **areas** and geometric reasoning
+- Reviewed deeper properties and approximations of **π (pi)**
+- Practiced problems involving square roots and iterative methods, reinforcing the **Babylonian Algorithm**
+- Reflected on the historical and conceptual links between ancient mathematics and modern calculus
