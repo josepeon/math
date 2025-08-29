@@ -302,3 +302,11 @@ This repo documents my daily progress in building the math skills necessary to u
 - Reviewed deeper properties and approximations of **π (pi)**
 - Practiced problems involving square roots and iterative methods, reinforcing the **Babylonian Algorithm**
 - Reflected on the historical and conceptual links between ancient mathematics and modern calculus
+
+## August 29, 2025 – Practice Log
+
+- Continued study of Multidisciplinary Calculus concepts
+- Practiced calculating **areas** under curves and connecting them to integral ideas
+- Reviewed approximations of **π (pi)** and explored its appearance in formulas
+- Worked on exercises involving square roots and iterative methods, reinforcing the **Babylonian Algorithm**
+- Reflected on the link between historical approaches and modern problem-solving in calculus
