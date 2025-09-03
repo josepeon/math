@@ -310,3 +310,11 @@ This repo documents my daily progress in building the math skills necessary to u
 - Reviewed approximations of **π (pi)** and explored its appearance in formulas
 - Worked on exercises involving square roots and iterative methods, reinforcing the **Babylonian Algorithm**
 - Reflected on the link between historical approaches and modern problem-solving in calculus
+
+## September 3, 2025 – Practice Log
+
+- Reviewed fundamental concepts in **limits** and their role in calculus
+- Practiced evaluating limits algebraically and graphically
+- Explored the concept of **continuity** and identifying discontinuities in functions
+- Worked on problems involving the **derivative** as a limit of difference quotients
+- Connected derivative concepts to real-world applications like rates of change and optimization
