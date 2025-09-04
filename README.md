@@ -318,3 +318,12 @@ This repo documents my daily progress in building the math skills necessary to u
 - Explored the concept of **continuity** and identifying discontinuities in functions
 - Worked on problems involving the **derivative** as a limit of difference quotients
 - Connected derivative concepts to real-world applications like rates of change and optimization
+
+## September 4, 2025 – Practice Log
+
+- Applied **derivative rules** including power rule, product rule, and chain rule
+- Practiced finding derivatives of polynomial, exponential, and trigonometric functions
+- Worked on **optimization problems** using derivatives to find maximum and minimum values
+- Explored the **mean value theorem** and its geometric interpretation
+- Solved real-world applications involving velocity, acceleration, and related rates of change
+
