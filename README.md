@@ -327,3 +327,11 @@ This repo documents my daily progress in building the math skills necessary to u
 - Explored the **mean value theorem** and its geometric interpretation
 - Solved real-world applications involving velocity, acceleration, and related rates of change
 
+## September 5, 2025 – Practice Log
+
+- Studied **integration** as the reverse of differentiation and explored the fundamental theorem of calculus
+- Practiced basic **antiderivatives** and indefinite integrals of polynomial and simple functions
+- Worked on **definite integrals** and their geometric interpretation as areas under curves
+- Applied **substitution method** for solving more complex integrals
+- Connected integration concepts to practical applications like distance, area, and accumulation problems
+
