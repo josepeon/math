@@ -342,3 +342,9 @@ This repo documents my daily progress in building the math skills necessary to u
 - Worked on **improper integrals** and understanding convergence/divergence
 - Applied integration techniques to physics problems (work, energy, center of mass)
 - Reflected on connections between integration, accumulation, and real-world modeling
+
+## September 7, 2025 – Practice Log
+
+- Slowed down to review recent integration techniques and consolidate understanding
+- Revisited examples of integration by parts and substitution, focusing on step-by-step solutions
+- Practiced a few select problems to reinforce concepts
