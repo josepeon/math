@@ -335,3 +335,10 @@ This repo documents my daily progress in building the math skills necessary to u
 - Applied **substitution method** for solving more complex integrals
 - Connected integration concepts to practical applications like distance, area, and accumulation problems
 
+## September 6, 2025 – Practice Log
+
+- Explored **integration by parts** and its application to products of functions
+- Practiced solving integrals involving exponential, logarithmic, and trigonometric functions
+- Worked on **improper integrals** and understanding convergence/divergence
+- Applied integration techniques to physics problems (work, energy, center of mass)
+- Reflected on connections between integration, accumulation, and real-world modeling
