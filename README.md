@@ -348,3 +348,13 @@ This repo documents my daily progress in building the math skills necessary to u
 - Slowed down to review recent integration techniques and consolidate understanding
 - Revisited examples of integration by parts and substitution, focusing on step-by-step solutions
 - Practiced a few select problems to reinforce concepts
+- Reflected on areas of confusion and made notes for future review
+- Planned to continue at a steady pace, prioritizing depth over speed
+
+## September 12, 2025 – Practice Log
+
+- Took time to thoroughly review fundamental theorem of calculus and its applications
+- Practiced basic integration problems with careful attention to detail and accuracy
+- Worked through a few substitution method examples, focusing on proper variable identification
+- Reflected on the relationship between differentiation and integration through concrete examples
+- Maintained steady progress with emphasis on understanding rather than coverage
