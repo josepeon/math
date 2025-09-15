@@ -358,3 +358,12 @@ This repo documents my daily progress in building the math skills necessary to u
 - Worked through a few substitution method examples, focusing on proper variable identification
 - Reflected on the relationship between differentiation and integration through concrete examples
 - Maintained steady progress with emphasis on understanding rather than coverage
+
+## September 14, 2025 – Practice Log
+
+- Continued practicing **integration by parts** with a focus on identifying the correct choice of u and dv
+- Worked through several problems step-by-step to build confidence in the technique
+- Reviewed **trigonometric integrals** and basic patterns involving sin, cos, and their combinations
+- Practiced evaluating definite integrals and interpreting their geometric meaning
+- Reflected on common integration mistakes and strategies for avoiding them
+
