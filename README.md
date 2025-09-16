@@ -367,3 +367,11 @@ This repo documents my daily progress in building the math skills necessary to u
 - Practiced evaluating definite integrals and interpreting their geometric meaning
 - Reflected on common integration mistakes and strategies for avoiding them
 
+## September 15, 2025 – Practice Log
+
+- Focused on **partial fraction decomposition** for integrating rational functions
+- Practiced breaking down complex fractions into simpler components for easier integration
+- Worked on **trigonometric substitution** techniques for integrals involving square roots
+- Reviewed the relationship between different integration methods and when to apply each
+- Consolidated understanding through careful practice of mixed integration problems
+
