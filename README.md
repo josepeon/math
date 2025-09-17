@@ -375,3 +375,11 @@ This repo documents my daily progress in building the math skills necessary to u
 - Reviewed the relationship between different integration methods and when to apply each
 - Consolidated understanding through careful practice of mixed integration problems
 
+## September 16, 2025 – Practice Log
+
+- Reviewed **applications of integration** including area between curves and volume calculations
+- Practiced finding areas bounded by multiple functions using definite integrals
+- Worked on **disk and washer methods** for calculating volumes of revolution
+- Explored real-world applications of integration in physics and engineering contexts
+- Reflected on the connection between abstract integration techniques and practical problem-solving
+
