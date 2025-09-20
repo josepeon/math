@@ -383,3 +383,11 @@ This repo documents my daily progress in building the math skills necessary to u
 - Explored real-world applications of integration in physics and engineering contexts
 - Reflected on the connection between abstract integration techniques and practical problem-solving
 
+## September 20, 2025 – Practice Log
+
+- Focused on **differential equations** and their role in modeling real-world phenomena
+- Practiced solving **separable differential equations** using integration techniques
+- Worked on **exponential growth and decay models** as applications of differential equations
+- Reviewed the connection between derivatives, integrals, and differential equations
+- Explored how calculus concepts build upon each other to solve complex problems
+
