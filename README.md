@@ -391,3 +391,11 @@ This repo documents my daily progress in building the math skills necessary to u
 - Reviewed the connection between derivatives, integrals, and differential equations
 - Explored how calculus concepts build upon each other to solve complex problems
 
+## September 21, 2025 – Practice Log
+
+- Continued work with **differential equations**, focusing on first-order linear equations
+- Practiced using **integrating factors** to solve non-separable differential equations
+- Worked on **slope fields** and visualizing solution curves graphically
+- Applied differential equations to **population dynamics** and **cooling/warming problems**
+- Reflected on how differential equations connect calculus to real-world modeling and prediction
+
