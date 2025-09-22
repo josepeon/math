@@ -399,3 +399,11 @@ This repo documents my daily progress in building the math skills necessary to u
 - Applied differential equations to **population dynamics** and **cooling/warming problems**
 - Reflected on how differential equations connect calculus to real-world modeling and prediction
 
+## September 22, 2025 – Practice Log
+
+- Explored **sequences and series** as an introduction to advanced calculus topics
+- Practiced determining convergence and divergence of **infinite series**
+- Worked with **geometric series** and their applications to real-world problems
+- Applied the **ratio test** and **root test** for series convergence
+- Reflected on how series connect discrete mathematics with continuous calculus concepts
+
