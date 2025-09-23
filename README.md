@@ -407,3 +407,11 @@ This repo documents my daily progress in building the math skills necessary to u
 - Applied the **ratio test** and **root test** for series convergence
 - Reflected on how series connect discrete mathematics with continuous calculus concepts
 
+## September 23, 2025 – Practice Log
+
+- Continued study of **power series** and their intervals of convergence
+- Practiced finding **Taylor series** and **Maclaurin series** for common functions
+- Worked on **polynomial approximations** and understanding truncation error
+- Explored applications of series in **numerical analysis** and computational methods
+- Reflected on how infinite series provide tools for approximating complex functions
+
