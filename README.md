@@ -415,3 +415,11 @@ This repo documents my daily progress in building the math skills necessary to u
 - Explored applications of series in **numerical analysis** and computational methods
 - Reflected on how infinite series provide tools for approximating complex functions
 
+## September 26, 2025 – Practice Log
+
+- Reviewed and consolidated recent work on **series and differential equations**
+- Practiced mixed problems combining integration techniques with series applications
+- Worked on **parametric equations** and their derivatives as a bridge to multivariable calculus
+- Explored **polar coordinates** and converting between coordinate systems
+- Reflected on connections between different calculus topics and preparation for advanced mathematics
+
