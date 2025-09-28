@@ -423,3 +423,11 @@ This repo documents my daily progress in building the math skills necessary to u
 - Explored **polar coordinates** and converting between coordinate systems
 - Reflected on connections between different calculus topics and preparation for advanced mathematics
 
+## September 27, 2025 – Practice Log
+
+- Continued exploring **parametric curves** and their geometric properties
+- Practiced calculating **arc length** and **surface area** using parametric representations
+- Worked on **vector-valued functions** and their derivatives as preparation for vector calculus
+- Applied parametric equations to model **motion in the plane** with position, velocity, and acceleration
+- Reflected on how parametric methods extend single-variable calculus concepts to more complex scenarios
+
