@@ -431,3 +431,11 @@ This repo documents my daily progress in building the math skills necessary to u
 - Applied parametric equations to model **motion in the plane** with position, velocity, and acceleration
 - Reflected on how parametric methods extend single-variable calculus concepts to more complex scenarios
 
+## September 28, 2025 – Practice Log
+
+- Began exploring **multivariable functions** and their domains in three-dimensional space
+- Practiced visualizing **level curves** and **contour plots** for functions of two variables
+- Worked on calculating **partial derivatives** and understanding their geometric meaning
+- Applied multivariable concepts to **optimization problems** in business and physics contexts
+- Reflected on the transition from single-variable to multivariable calculus and increased complexity
+
