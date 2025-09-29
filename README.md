@@ -439,3 +439,10 @@ This repo documents my daily progress in building the math skills necessary to u
 - Applied multivariable concepts to **optimization problems** in business and physics contexts
 - Reflected on the transition from single-variable to multivariable calculus and increased complexity
 
+## September 29, 2025 – Practice Log
+
+- Continued work with **partial derivatives** and explored higher-order partial derivatives
+- Practiced using the **chain rule** for multivariable functions and composite functions
+- Worked on **directional derivatives** and **gradient vectors** to understand rates of change in multiple dimensions
+- Applied the **gradient** to find maximum and minimum rates of change at given points
+- Reflected on how multivariable calculus extends single-variable concepts to higher dimensions
