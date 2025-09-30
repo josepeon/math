@@ -446,3 +446,11 @@ This repo documents my daily progress in building the math skills necessary to u
 - Worked on **directional derivatives** and **gradient vectors** to understand rates of change in multiple dimensions
 - Applied the **gradient** to find maximum and minimum rates of change at given points
 - Reflected on how multivariable calculus extends single-variable concepts to higher dimensions
+
+## September 30, 2025 – Practice Log
+
+- Explored **multiple integration** and **double integrals** over rectangular regions
+- Practiced setting up and evaluating **iterated integrals** with proper limits of integration
+- Worked on **applications of double integrals** for finding areas and volumes under surfaces
+- Applied integration techniques to **center of mass** and **moment** calculations in two dimensions
+- Reflected on the month's progress from single-variable calculus through multivariable concepts
