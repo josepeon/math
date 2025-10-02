@@ -454,3 +454,11 @@ This repo documents my daily progress in building the math skills necessary to u
 - Worked on **applications of double integrals** for finding areas and volumes under surfaces
 - Applied integration techniques to **center of mass** and **moment** calculations in two dimensions
 - Reflected on the month's progress from single-variable calculus through multivariable concepts
+
+## October 2, 2025 – Practice Log
+
+- Started October by reviewing **vector fields** and their geometric representations
+- Practiced calculating **line integrals** along curves in two and three dimensions
+- Worked on understanding **conservative vector fields** and path independence
+- Applied line integrals to **work problems** in physics and engineering contexts
+- Reflected on how vector calculus connects multivariable calculus to real-world applications
