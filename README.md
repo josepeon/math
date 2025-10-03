@@ -462,3 +462,11 @@ This repo documents my daily progress in building the math skills necessary to u
 - Worked on understanding **conservative vector fields** and path independence
 - Applied line integrals to **work problems** in physics and engineering contexts
 - Reflected on how vector calculus connects multivariable calculus to real-world applications
+
+### October 2, 2025 – Evening Session
+
+- Continued exploring **Green's theorem** and its relationship to line integrals and double integrals
+- Practiced converting between line integrals around closed curves and double integrals over regions
+- Worked on **curl and divergence** of vector fields and their geometric interpretations
+- Applied Green's theorem to calculate **circulation** and **flux** through practical examples
+- Reflected on how fundamental theorems unify different areas of vector calculus
