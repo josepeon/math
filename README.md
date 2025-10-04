@@ -470,3 +470,11 @@ This repo documents my daily progress in building the math skills necessary to u
 - Worked on **curl and divergence** of vector fields and their geometric interpretations
 - Applied Green's theorem to calculate **circulation** and **flux** through practical examples
 - Reflected on how fundamental theorems unify different areas of vector calculus
+
+## October 3, 2025 – Practice Log
+
+- Explored **surface integrals** and parameterization of surfaces in three-dimensional space
+- Practiced calculating **flux through surfaces** using surface integrals of vector fields
+- Worked on **Stokes' theorem** and its relationship between line integrals and surface integrals
+- Applied surface integral concepts to **heat flow** and **electromagnetic field** problems
+- Reflected on the progression from single integrals through multiple integrals to surface integrals
