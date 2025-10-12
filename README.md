@@ -471,6 +471,7 @@ This repo documents my daily progress in building the math skills necessary to u
 - Applied Green's theorem to calculate **circulation** and **flux** through practical examples
 - Reflected on how fundamental theorems unify different areas of vector calculus
 
+
 ## October 3, 2025 – Practice Log
 
 - Explored **surface integrals** and parameterization of surfaces in three-dimensional space
@@ -478,3 +479,34 @@ This repo documents my daily progress in building the math skills necessary to u
 - Worked on **Stokes' theorem** and its relationship between line integrals and surface integrals
 - Applied surface integral concepts to **heat flow** and **electromagnetic field** problems
 - Reflected on the progression from single integrals through multiple integrals to surface integrals
+
+## October 4–6, 2025 – Practice Log
+
+- Reviewed and consolidated understanding of **integration** techniques, including definite and indefinite integrals
+- Practiced applying integration to compute areas, volumes, and physical quantities
+- Worked through problems involving **integration by parts**, **substitution**, and **trigonometric integrals**
+- Explored connections between integration and earlier calculus concepts, reinforcing the fundamental theorem of calculus
+- Focused on careful, step-by-step solutions to build confidence and accuracy
+
+## October 7–9, 2025 – Practice Log
+
+- Transitioned to more **applied assignments** involving calculus concepts in real-world scenarios
+- Introduced and practiced **Riemann sums** as a method for approximating areas under curves
+- Worked on setting up Riemann sum expressions and interpreting their meaning
+- Explored the relationship between Riemann sums and definite integrals, connecting discrete and continuous perspectives
+- Applied these concepts to practical problems and began exploring historical context for calculus development
+
+## October 10–11, 2025 – Practice Log
+
+- Focused on **conceptual and historical assignments** in calculus
+- Studied the contributions of **Euclid**, **Pythagoras**, and **Suzuki** to mathematical foundations
+- Explored **Fermat's** work on tangents and maxima/minima, laying groundwork for derivatives
+- Reviewed the development and meaning of the **derivative**, including its geometric and physical interpretations
+- Investigated the concept of **gradient descent** and its significance in optimization and machine learning
+- Reflected on how historical developments connect to modern calculus and AI applications
+
+---
+
+## Reflection
+
+This journey began with a need to rebuild algebra fundamentals and has progressed through linear algebra, single- and multivariable calculus, and into the historical and conceptual roots of mathematics. By moving from basic equations and functions to advanced topics like surface integrals, Riemann sums, and gradient descent, I've developed not only technical proficiency but also a deeper appreciation for the evolution of mathematical ideas. Understanding the historical context—from Euclid and Fermat to modern calculus—has enriched my intuition and provided a strong foundation for tackling AI and machine learning concepts with confidence.
